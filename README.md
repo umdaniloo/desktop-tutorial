@@ -1,27 +1,27 @@
 <h1>
-  <a href="https://sites.google.com/view/projetosumdanilo/">
-    <img align="center" width="40px" src="https://img.freepik.com/vetores-gratis/dados-de-desenhos-animados_78370-2910.jpg?semt=ais_hybrid&w=740">
+  <a href="https://sites.google.com/view/projetosumdanilo/" target="_blank">
+    <img align="center" width="40px" src="https://img.freepik.com/vetores-gratis/dados-de-desenhos-animados_78370-2910.jpg?semt=ais_hybrid&w=740" alt="Ícone de dados">
   </a>
   <span>Fazendo minha contribuição</span>
 </h1>
 
-**Contribuindo como Portfólio**
+<p><strong>Contribuindo como Portfólio</strong></p>
 
-<a href="https://www.linkedin.com/in/danilomatospires/" target="_blank">
-  <button style="background-color: #0077B5; color: white; padding: 10px 24px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; font-weight: bold;">
+<!-- Botões estilizados corretamente -->
+<a href="https://www.linkedin.com/in/danilomatospires/" target="_blank" style="text-decoration: none;">
+  <div style="display: inline-block; background-color: #0077B5; color: white; padding: 10px 24px; border-radius: 5px; font-size: 16px; font-weight: bold; margin-right: 10px; cursor: pointer;">
     Meu LinkedIn
-  </button>
+  </div>
 </a>
 
-<a href="https://sites.google.com/view/projetosumdanilo/" target="_blank">
-  <button style="background-color: #4A4A4A; color: white; padding: 10px 24px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; font-weight: bold;">
+<a href="https://sites.google.com/view/projetosumdanilo/" target="_blank" style="text-decoration: none;">
+  <div style="display: inline-block; background-color: #4A4A4A; color: white; padding: 10px 24px; border-radius: 5px; font-size: 16px; font-weight: bold; cursor: pointer;">
     Meu Portfólio
-  </button>
+  </div>
 </a>
 
+<h2>Objetivo</h2>
+<p>Construir seu Primeiro Portfólio.</p>
 
-## Objetivo
-Construir seu Primeiro Portfólio.
-
-## Tecnologias
-#Aprendendo
+<h2>Tecnologias</h2>
+<p>#Aprendendo</p>
