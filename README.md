@@ -1,7 +1,7 @@
 <h1>
-    <a href="https://www.dio.me/">
+    <a href="https://sites.google.com/view/projetosumdanilo/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span>Construindo seu Portfólio Front-end do Zero</span>
+    <span>Fazendo minha contribuição</span>
 </h1>
 
 Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Construindo seu Portfólio Front-end do Zero** da [Digital Innovation One](https://www.dio.me/).
