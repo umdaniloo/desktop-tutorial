@@ -9,13 +9,13 @@
 
 <a href="https://www.linkedin.com/in/danilomatospires/" target="_blank">
   <button style="background-color: #0077B5; color: white; padding: 10px 24px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; font-weight: bold;">
-    LinkedIn
+    Meu LinkedIn
   </button>
 </a>
 
 <a href="https://sites.google.com/view/projetosumdanilo/" target="_blank">
   <button style="background-color: #4A4A4A; color: white; padding: 10px 24px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; font-weight: bold;">
-    Portfólio
+    Meu Portfólio
   </button>
 </a>
 
