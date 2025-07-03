@@ -1,25 +1,27 @@
 <h1>
-    <a href="https://sites.google.com/view/projetosumdanilo/">
-     <img align="center" width="40px" src="https://img.freepik.com/vetores-gratis/dados-de-desenhos-animados_78370-2910.jpg?semt=ais_hybrid&w=740"></a>
-    <span>Fazendo minha contribuição</span>
+  <a href="https://sites.google.com/view/projetosumdanilo/">
+    <img align="center" width="40px" src="https://img.freepik.com/vetores-gratis/dados-de-desenhos-animados_78370-2910.jpg?semt=ais_hybrid&w=740">
+  </a>
+  <span>Fazendo minha contribuição</span>
 </h1>
 
-**Construindo como Portfólio**
+**Contribuindo como Portfólio**
 
-[![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/construindo-seu-portfolio-front-end-do-zero/learning/81cbe4c1-6e9e-4ce3-be7d-412aef4efb24) 
-[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/construindo-seu-portfolio-front-end-do-zero/learning/81cbe4c1-6e9e-4ce3-be7d-412aef4efb24)
+<a href="https://www.linkedin.com/in/danilomatospires/" target="_blank">
+  <button style="background-color: #0077B5; color: white; padding: 10px 24px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; font-weight: bold;">
+    LinkedIn
+  </button>
+</a>
+
+<a href="https://sites.google.com/view/projetosumdanilo/" target="_blank">
+  <button style="background-color: #4A4A4A; color: white; padding: 10px 24px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; font-weight: bold;">
+    Portfólio
+  </button>
+</a>
+
 
 ## Objetivo
-Construir seu Primeiro Portfólio Front-end do Zero.
+Construir seu Primeiro Portfólio.
 
 ## Tecnologias
-[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)]()
-[![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E94D5F)]() 
-[![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=30A3DC)]()
-[![Figma](https://img.shields.io/badge/Protótipo%20no%20Figma-000?style=for-the-badge&logo=figma&logoColor=E94D5F)](https://www.figma.com/file/NkndT2SbyHJZWLEsaM8Xn3/DIO-Lab-Portf%C3%B3lio)
-
-## Desafio: Portfólio Front-end
-Crie seu próprio portfólio front-end, atentando-se para que seja autêntico, visualmente atraente e responsivo. Sinta-se livre para utilizar as tecnologias que desejar e expressar sua personalidade e estilo através do design e dos elementos interativos do seu portfólio. Após concluir, você pode hospedá-lo em uma plataforma de sua escolha, como GitHub Pages, Netlify, Vercel, etc.
-
-##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+#Aprendendo
