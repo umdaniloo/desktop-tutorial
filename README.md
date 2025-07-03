@@ -1,10 +1,10 @@
 <h1>
     <a href="https://sites.google.com/view/projetosumdanilo/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+     <img align="center" width="40px" src="https://img.freepik.com/vetores-gratis/dados-de-desenhos-animados_78370-2910.jpg?semt=ais_hybrid&w=740"></a>
     <span>Fazendo minha contribuição</span>
 </h1>
 
-Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Construindo seu Portfólio Front-end do Zero** da [Digital Innovation One](https://www.dio.me/).
+**Construindo como Portfólio**
 
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/construindo-seu-portfolio-front-end-do-zero/learning/81cbe4c1-6e9e-4ce3-be7d-412aef4efb24) 
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/construindo-seu-portfolio-front-end-do-zero/learning/81cbe4c1-6e9e-4ce3-be7d-412aef4efb24)
